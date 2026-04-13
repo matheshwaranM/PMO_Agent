@@ -1,0 +1,8 @@
+
+CR Agent Output: Displays a log of scope deviations, including the priority, estimated effort, and cost impact for each change request identified.
+
+Plan Agent Output: Shows a complete Project Plan with tasks organized by phase, assigned owners, and calculated start/end dates.
+
+RAID Agent Output: Lists Risks, Assumptions, Issues, and Dependencies, featuring a "Risk Score" and specific mitigation actions.
+
+All these  output are documented as csv files
